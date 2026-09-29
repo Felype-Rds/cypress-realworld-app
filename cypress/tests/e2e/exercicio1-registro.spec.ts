@@ -7,7 +7,6 @@ const chance = new Chance()
 const loginPage = new LoginPage()
 const newUserRegisterPage = new NewUserRegisterPage()
 
-
 describe('Registro de novo usuario com sucesso', () => {
   it('Registro de um novo usuario com informacoes validas', () => {
     loginPage.accessLoginPage()

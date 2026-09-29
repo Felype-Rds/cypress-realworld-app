@@ -1,10 +1,7 @@
 import database from '../../../data/database.json'
 import LoginPage from '../e2e/pages/loginPage'
 
-
 const loginPage = new LoginPage()
-
-
 
 describe('Login com sucesso', () => {
   it.only('Deve fazer login com um usuário válido', () => {

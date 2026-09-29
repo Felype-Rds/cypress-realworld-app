@@ -24,4 +24,5 @@ class HistoricPage {
     }
 }
 
+
 export default HistoricPage

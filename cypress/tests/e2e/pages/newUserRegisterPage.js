@@ -91,5 +91,4 @@ class NewUserRegisterPage {
     // }
 }
 
-
 export default NewUserRegisterPage

@@ -31,4 +31,5 @@ class TransferPage {
     }
 }
 
+
 export default TransferPage
